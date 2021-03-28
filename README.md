@@ -5,7 +5,7 @@ My name is Antony
 I am Student Biomedical Engineer.
 I really enjoy learning. Currently learning Data science tools using python. I am love hardware programming, electronics, and embedded systems. My goal is to use these skills am learning to solve healthcare problems.
 
-Skills: Python, Arduino, MYSQL, C/C++
+Skills: Python, Arduino, MYSQL, C/C++, CAD design
 
 - 🔭 I’m currently working on personal practise projects 
 - 🌱 I’m currently learning Datascience  
