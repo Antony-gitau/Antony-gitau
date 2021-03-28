@@ -1,17 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Antony
+#### I am Engineer in making.
+I am Student Biomedical Engineer.
+I am really enjoy learning. Currently learning Data science tools using python. I am love hardware programming, electronics, and embedded systems. My goal is to use these skills am learning to solve healthcare problems.
 
-This is Antony! A student Biomedical Engineer.
+Skills: Python, Arduino, MYSQL, C/C++
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antony-gitau)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on personal practise projects 
+- 🌱 I’m currently learning Datascience  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Antony M. Gitau/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Antony M. Gitau)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gitau_.antony/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Antony M. Gitau)  
+
+
