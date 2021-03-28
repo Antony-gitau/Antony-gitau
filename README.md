@@ -19,3 +19,4 @@ Skills: Python, Arduino, MYSQL, C/C++, CAD design
 
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antony-gitau)](https://github.com/anuraghazra/github-readme-stats)
