@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-my name is Antony
+My name is Antony
 #### Engineer in making.
 I am Student Biomedical Engineer.
 I am really enjoy learning. Currently learning Data science tools using python. I am love hardware programming, electronics, and embedded systems. My goal is to use these skills am learning to solve healthcare problems.
