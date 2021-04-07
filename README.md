@@ -2,8 +2,8 @@
 
 My name is Antony
 #### Engineer in making.
-I am Student Biomedical Engineer.
-I really enjoy learning. Currently learning Data science tools using python. I am love hardware programming, electronics, and embedded systems. My goal is to use these skills am learning to solve healthcare problems.
+Student Biomedical Engineer.
+I really enjoy learning. Currently learning Data science tools using python. I love hardware programming, electronics, and embedded systems. My goal is to use these skills am learning to solve healthcare problems.
 
 Skills: Python, Arduino, MYSQL, C/C++, CAD design
 
