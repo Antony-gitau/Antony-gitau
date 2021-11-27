@@ -7,7 +7,7 @@
                                                      Engineer in making
 
 ---
-Antony spends his day tinkering with electronics and exploring datasets. He is a Juniour Data Scientist and Embedded Systems Engineer. 
+Antony spends his day tinkering with electronics and exploring datasets. He is a Juniour Data Scientist and Embedded Systems Engineer. He is also a student Biomedical engineering.
 
 ---
   Skills
@@ -18,6 +18,8 @@ Antony spends his day tinkering with electronics and exploring datasets. He is a
 - Visualization with Matplotlib, excel, & Tableau.
 - Data Analytics
 ---
+
+
 
 
 
