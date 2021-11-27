@@ -4,7 +4,7 @@
 
 ---
     
-                                                    #### Engineer in making.
+                                                     Engineer in making
 
 ---
 Antony spends his day tinkering with electronics and exploring datasets. He is a Juniour Data Scientist and Embedded Systems Engineer. 
