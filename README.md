@@ -1,23 +1,17 @@
                                                          Hi there 👋
                                                          
-                                                         Meet Antony M.
+                                                       Meet Antony M.
+
+                                                    An engineer in the making
 
 ---
-    
-                                                     Engineer in making
+I am an early researcher at the intersection of medicine and engineering, driven by a lifelong passion for learning.
 
----
-Antony spends his day tinkering with electronics and exploring datasets. He is a Juniour Data Scientist and a Student Biomedical Engineer.
+My career plan involves pursuing a postgraduate degree with a focus on Artificial Intelligence (AI) and an interest in using a wide range of health data, including biological, medical, and clinical data, to improve healthcare outcomes.
 
----
-  Skills
+I am building skills in mathematics, statistics, programming, deep (machine) learning, biology, data stewardship & visualization, and scientific communication.
 
-- Programming with Python, Arduino, SQL, C & C++.
-- Designing Circuits with AutoCAD.
-- Machine Learning with Python
-- Visualization with Matplotlib, excel, & Tableau.
-- Data Analytics
----
+Check out my [webpage](https://antony-gitau.github.io/) for more.
 
 
 
