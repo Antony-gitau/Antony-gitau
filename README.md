@@ -2,7 +2,7 @@
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM2dGxhN3llYWZqbnFtaDBpMTF0ZmZ0YnNmODd4amd4NHZhajlkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="230">
 
 
-<p><em> Machine learning engineer with 4 years experience in research and programming.
+<p><em> Data Scientist with 4 years experience in Machine learning research and programming.
 
 Studying AI for science at:
 <a href="https://ai.aims.ac.za/">University of Cape Town</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
